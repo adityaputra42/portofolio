@@ -1,7 +1,9 @@
 
-export const resourcesLinks = [
-  { href: "#", text: "Home" },
-  { href: "#", text: "About" },
-  { href: "#", text: "Project" },
-  { href: "#", text: "Contact Me" },
+
+export const navItems = [
+  { label: "Home", href: "#" },
+  { label: "About", href: "#" },
+  { label: "Project", href: "#" },
+  { label: "Contact Me", href: "#" },
 ];
+
